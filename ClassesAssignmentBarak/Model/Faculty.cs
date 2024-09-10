@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassesAssignmentBarak.Model
 {
-    internal class Faculty
+    public class Faculty
     {
         public Guid Id { get; set; }
 
