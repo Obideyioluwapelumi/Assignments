@@ -12,20 +12,20 @@ class Prgram
             new Faculty
             {
                 if (FacultyId = "FG-IB-SCI-101")
-                    return "FG-IB-SCI-101";
+                    return "Faculty of Sciences";
 
                 else if (FacultyId = "FG-IB-ENG-102")
-                    return "FG-IB-ENG-103";
+                    return "Faculty of Engineering";
 
                 else if (FacultyId = "FG-IB-ART-103")
-                    return "FG-IB-ART-103"
+                    return "Faculty of Art"
                 else
                     return "Input the correct faculty code"
 
 
             Id = Guid.NewGuid(),
                 FacultyId = "FG-IB-SCI-101",           // Starting with the University ID code FGIB
-                FacultyName = "FG-IB-SCI-101",
+                FacultyName = "Faculty of Sciences",
                 DeanOfFaculty = "Professor S.K Mosafejo"
             }
 
