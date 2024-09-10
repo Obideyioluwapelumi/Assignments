@@ -11,9 +11,21 @@ class Prgram
         {
             new Faculty
             {
-                Id = Guid.NewGuid(),
+                if (FacultyId = "FG-IB-SCI-101")
+                    return "FG-IB-SCI-101";
+
+                else if (FacultyId = "FG-IB-ENG-102")
+                    return "FG-IB-ENG-103";
+
+                else if (FacultyId = "FG-IB-ART-103")
+                    return "FG-IB-ART-103"
+                else
+                    return "Input the correct faculty code"
+
+
+            Id = Guid.NewGuid(),
                 FacultyId = "FG-IB-SCI-101",           // Starting with the University ID code FGIB
-                FacultyName = "Faculty of Sciences",
+                FacultyName = "FG-IB-SCI-101",
                 DeanOfFaculty = "Professor S.K Mosafejo"
             }
 
@@ -38,6 +50,11 @@ class Prgram
             new Department
             {
                 Id = Guid.NewGuid(),
+                DepartmentName = "Civil Engineering",
+                DepertmentFaculty = $"{FacultyName}",
+                DepartmentCode
+                HeadOfDepartment
+
             }
         }
 
