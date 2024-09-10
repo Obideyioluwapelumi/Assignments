@@ -12,22 +12,22 @@ class Prgram
             new Faculty
             {
                 Id = Guid.NewGuid(),
-                FacultyId =      FG-IB-SCI-101           // Starting with the University ID code FGIB
-                FacultyName = "Faculty of Sciences"
+                FacultyId = "FG-IB-SCI-101",           // Starting with the University ID code FGIB
+                FacultyName = "Faculty of Sciences",
                 DeanOfFaculty = "Professor S.K Mosafejo"
             }
 
             {
                 Id = Guid.NewGuid(),
-                FacultyId = FG-IB-ENG-102
-                FacultyName = "Faculty of Engineering"
+                FacultyId = "FG-IB-ENG-102",
+                FacultyName = "Faculty of Engineering",
                 DeanOfFaculty = "Professor L.S Konibaje"
             }
 
             {
                 Id = Guid.NewGuid(),
-                FacultyId = FG-IB-ART-103
-                FacultyName = "Faculty of Art"
+                FacultyId = "FG-IB-ART-103",
+                FacultyName = "Faculty of Art",
                 DeanOfFaculty = "Professor M.O Enioriyo"
             }
         }
@@ -45,7 +45,7 @@ class Prgram
         {
             new Lecturer
             {
-
+                Id = Guid.NewGuid(),
             }
         }
 
@@ -53,7 +53,7 @@ class Prgram
         {
             new Courses
             {
-
+                Id = Guid.NewGuid(),
             }
         }
 
@@ -62,6 +62,7 @@ class Prgram
             new Courses
             {
                 Id = Guid.NewGuid(),
+
             }
         }
 
