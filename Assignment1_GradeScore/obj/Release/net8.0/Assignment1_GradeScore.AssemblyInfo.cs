@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Assignment1_GradeScore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+680a973f982188eff02307bf6d766e7a5624265c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a9e27f47ce1a24ff27852130c5cced1a641e650")]
 [assembly: System.Reflection.AssemblyProductAttribute("Assignment1_GradeScore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Assignment1_GradeScore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
