@@ -1,0 +1,15 @@
+C:\Users\Oluwapelumi Obideyi\source\repos\Assignment\Assignment3_ClassConcepts\bin\Debug\net8.0\Assignment3_ClassConcepts.exe
+C:\Users\Oluwapelumi Obideyi\source\repos\Assignment\Assignment3_ClassConcepts\bin\Debug\net8.0\Assignment3_ClassConcepts.deps.json
+C:\Users\Oluwapelumi Obideyi\source\repos\Assignment\Assignment3_ClassConcepts\bin\Debug\net8.0\Assignment3_ClassConcepts.runtimeconfig.json
+C:\Users\Oluwapelumi Obideyi\source\repos\Assignment\Assignment3_ClassConcepts\bin\Debug\net8.0\Assignment3_ClassConcepts.dll
+C:\Users\Oluwapelumi Obideyi\source\repos\Assignment\Assignment3_ClassConcepts\bin\Debug\net8.0\Assignment3_ClassConcepts.pdb
+C:\Users\Oluwapelumi Obideyi\source\repos\Assignment\Assignment3_ClassConcepts\obj\Debug\net8.0\Assignment3_ClassConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oluwapelumi Obideyi\source\repos\Assignment\Assignment3_ClassConcepts\obj\Debug\net8.0\Assignment3_ClassConcepts.AssemblyInfoInputs.cache
+C:\Users\Oluwapelumi Obideyi\source\repos\Assignment\Assignment3_ClassConcepts\obj\Debug\net8.0\Assignment3_ClassConcepts.AssemblyInfo.cs
+C:\Users\Oluwapelumi Obideyi\source\repos\Assignment\Assignment3_ClassConcepts\obj\Debug\net8.0\Assignment3_ClassConcepts.csproj.CoreCompileInputs.cache
+C:\Users\Oluwapelumi Obideyi\source\repos\Assignment\Assignment3_ClassConcepts\obj\Debug\net8.0\Assignment3_ClassConcepts.sourcelink.json
+C:\Users\Oluwapelumi Obideyi\source\repos\Assignment\Assignment3_ClassConcepts\obj\Debug\net8.0\Assignment3_ClassConcepts.dll
+C:\Users\Oluwapelumi Obideyi\source\repos\Assignment\Assignment3_ClassConcepts\obj\Debug\net8.0\refint\Assignment3_ClassConcepts.dll
+C:\Users\Oluwapelumi Obideyi\source\repos\Assignment\Assignment3_ClassConcepts\obj\Debug\net8.0\Assignment3_ClassConcepts.pdb
+C:\Users\Oluwapelumi Obideyi\source\repos\Assignment\Assignment3_ClassConcepts\obj\Debug\net8.0\Assignment3_ClassConcepts.genruntimeconfig.cache
+C:\Users\Oluwapelumi Obideyi\source\repos\Assignment\Assignment3_ClassConcepts\obj\Debug\net8.0\ref\Assignment3_ClassConcepts.dll
